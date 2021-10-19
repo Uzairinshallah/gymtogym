@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88754476347",
+    "project_id": "gymtogym-6f422",
+    "storage_bucket": "gymtogym-6f422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88754476347:android:70150342c4d0dce7c6531e",
+        "android_client_info": {
+          "package_name": "com.example.gymtogym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88754476347-fukn9b7nu16atiagjn789a89clcjjh08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzBXxz_Se0PjtMkiMIwXP1p2vNfjSe2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88754476347-fukn9b7nu16atiagjn789a89clcjjh08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
